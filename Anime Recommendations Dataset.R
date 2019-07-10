@@ -1,10 +1,5 @@
 #dataset from https://www.kaggle.com/CooperUnion/anime-recommendations-database
-#I save all my images as 1280 x 720, so the text lines up at that sized image.
-#I don't know how to do this yet with relative coordinates to make things line up automatically
 
-library(needs)
-
-needs(stringr, plyr, ggplot2, grid, caTools)
 library(stringr)
 library(plyr)
 library(ggplot2)
