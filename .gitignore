@@ -4,6 +4,7 @@
 # the data files - not sure how Kaggle would take to that
 *.csv
 
+
 # History files
 .Rhistory
 .Rapp.history
