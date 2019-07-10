@@ -2,7 +2,7 @@
 2017
 
 ## Project Title
-Kaggle-Anime-Recommendations-Database
+Kaggle's Anime Recommendations Dataset 
 
 ## Description
 My foray into Data Science with R and the Kaggle anime-recommendations-database
